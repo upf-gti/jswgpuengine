@@ -1,0 +1,33 @@
+{
+  "name": "@upf-gti/jswgpuengine",
+  "version": "1.0.5",
+  "description": "Open-source engine designed for creating desktop, XR (extended reality), and 3D web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upf-gti/wgpuEngine.git"
+  },
+  "files": [
+      "index.js",
+      "engine.js",
+      "index.data",
+      "index.wasm",
+      "package.json"
+    ],
+  "keywords": [
+    "engine",
+    "web",
+    "3d",
+    "webgpu",
+    "graphics"
+  ],
+  "author": "@upf-gti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upf-gti/wgpuEngine/issues"
+  },
+  "homepage": "https://github.com/upf-gti/wgpuEngine#readme"
+}
