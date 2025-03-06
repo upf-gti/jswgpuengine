@@ -1,6 +1,6 @@
 {
   "name": "@upf-gti/jswgpuengine",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Open-source engine designed for creating desktop, XR (extended reality), and 3D web applications.",
   "main": "index.js",
   "scripts": {
